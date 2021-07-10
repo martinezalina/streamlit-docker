@@ -1,4 +1,4 @@
-# Streamlit One
+# Dockerized Streamlit App
 
 > Prototyping a user interface with Streamlit
 
