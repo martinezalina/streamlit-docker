@@ -6,6 +6,8 @@ Sometimes we need to resolve very quickly a delivery or we have to validate a pr
 
 The objective of this project is to provide an interface that allows to a simple user (who don`t manage conda and Jupyter Notebook) select an xls, process its content and obtain the result needed.
 
+Here we go!
+
 ## Run the app
 
 The first time the project is used, the following commands should be run:
