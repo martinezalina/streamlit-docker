@@ -1,6 +1,10 @@
 # Streamlit One
 
-The objective of this project is to provide an interface that allows you to select an xls, process its content and obtain the resulting xls.
+> Prototyping a user interface with Streamlit
+
+Sometimes we need to resolve very quickly a delivery or we have to validate a protopyte.
+
+The objective of this project is to provide an interface that allows to a simple user (who don`t manage conda and Jupyter Notebook) select an xls, process its content and obtain the result needed.
 
 ## Run the app
 
