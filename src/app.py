@@ -12,7 +12,7 @@ st.write("""
 
 # Simple Hello World
 
-I'm making my fist data science app
+I'm making my first data science app
 
 """)
 
